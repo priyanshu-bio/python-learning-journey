@@ -8,7 +8,7 @@ guesses = 0
 
 
 while True:
-    guess = int(input(f"guess a no. between 0-100:-   "))
+    guess = int(input(f"guess a no. between {low} - {high}:-   "))
     guesses += 1
 
 
