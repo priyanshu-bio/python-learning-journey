@@ -19,6 +19,7 @@ Welcome to my personal Python repository! This folder documents my progress as I
 | **`quiz_game_program.py`** | A interactive multiple-choice quiz system that tracks total scores and feedback. | Data structures (lists/dicts), iteration, score accumulation |⭐
 | **`rock_paper_scissors.py`** | A playable Rock-Paper-Scissors game against a randomized computer opponent. | `random.choice()`, game loops, conditional win/loss evaluation |⭐
 | **`shopping_cart_program.py`**| A shopping cart manager allowing users to add items, view cart, and calculate totals. | Lists, string formatting, `while` loop control |⭐
+| **'Encryption Program.py'**| A text encryption script that generates a randomized cipher key using punctuation, digits, and letters to encrypt user input |
 
 ---
 
